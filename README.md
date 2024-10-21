@@ -28,7 +28,7 @@ End the program.
 ## PROGRAM:
 ### DEVELOPED BY : Kishor Kumar B.
 ### REGISTER NO. : 212223240072
-```
+```c
 #include <stdio.h>
 
 #define A 1664525
